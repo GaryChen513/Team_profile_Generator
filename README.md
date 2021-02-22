@@ -1,5 +1,3 @@
-# Team_profile_Generator
-
 
 <h1 align="center">TeamProfile Generator</h1>
 
@@ -12,7 +10,10 @@ SO THAT I have quick access to their emails and GitHub profiles<br />
 <br/>
 Below is the video demo showing the functionality of the application:<br />
   
-![README Generator](./Assets/demo.gif)
+![teamPorfolio Generator](./Assets/demo.gif)
+
+The screenshot after-generated webpage is below:
+![teamPorfolio](./Assets/teamPortfolio.png)
 
 ## Table of Contents
 
